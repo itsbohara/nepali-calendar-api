@@ -1,6 +1,6 @@
 # nepali-calendar-api - Api V1
- nepali calendar api, data from hamro patro
- nepali calendar - python script for converting json data from hamro patro.
+ - nepali calendar api, data from hamro patro
+ - python script for converting web data to json api data
 
 # example data
 - ```data``` folder
